@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beprepareddontfear.github.io/sitemap.xml

@@ -1,0 +1,12 @@
+# Evenkeel
+
+> Practical, sourced everyday-preparedness guides for households worldwide. Prepared, not scared.
+
+## Guides
+
+- [How to build a home emergency food and water stock](https://beprepareddontfear.github.io/guides/home-emergency-food-and-water-stock.html): water and food quantities, pantry shelf life, storage rules and a homemade kit checklist.
+
+## About
+
+- [About](https://beprepareddontfear.github.io/about.html)
+- [Sources and editorial policy](https://beprepareddontfear.github.io/sources.html)
