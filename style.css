@@ -10,4 +10,4 @@ h1{font-size:1.9rem;line-height:1.25}h2{font-size:1.35rem;margin-top:2rem}
 th,td{border:1px solid var(--line);padding:8px 10px;text-align:left}th{background:var(--card)}
 .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin:14px 0}
 .meta{color:var(--muted);font-size:.9rem}footer{color:var(--muted);font-size:.9rem;border-top:1px solid var(--line);margin-top:3rem}
-ul.check{list-style:none;padding-left:0}ul.check li:before{content:"\2610  "}
+ul.check{list-style:none;padding-left:0}ul.check li:before{content:"\2610  "}ul.check li{padding-left:1.6em;text-indent:-1.6em;margin:.4em 0}
